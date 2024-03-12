@@ -1,0 +1,16 @@
+{
+  "name": "12Mar",
+  "type": "package",
+  "blockId": "_Wk6WTejBB0hDCnhp0Pbx",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_12Mar"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
