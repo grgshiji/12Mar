@@ -1,0 +1,16 @@
+{
+  "name": "12Mar",
+  "type": "package",
+  "blockId": "_Wk6WTejBB0hDCnhp0Pbx",
+  "source": {
+    "https": "https://github.com/grgshiji/12Mar.git",
+    "ssh": "git@github.com:grgshiji/12Mar.git",
+    "branch": "block_12Mar"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
